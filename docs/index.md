@@ -1,5 +1,3 @@
-# Markdown Playground Demo
-
 # ReservaFàcil - Espai Esportiu Activa
  
 Benvingut a **ReservaFàcil**, una aplicació de reserves per a l'**Espai Esportiu Activa**.
