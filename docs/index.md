@@ -1,45 +1,40 @@
 # Markdown Playground Demo
 
-This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, and inline code like `npm run dev`.
-
-## Headers
-
-### H3 Section
-#### H4 Section
-##### H5 Section
-
-## Lists
-
-- Unordered list item
-- Another item with **strong** text
-
-1. Ordered step one
-2. Ordered step two
-
-## Image
-
-![Sample chart](/static/home/users-graph.png)
-
-## Code blocks
-
-```python
-def greet(name: str) -> str:
-    return f"Hello, {name}"
-```
-
-```javascript
-const users = [{ name: "Alice" }, { name: "Bob" }];
-console.log(users.map((u) => u.name).join(", "));
-```
-
-```bash
-curl -s https://www.devtoolsdaily.com/sitemap.xml | head -n 5
-```
-
-## Table
-
-| Feature | Status | Notes |
-| --- | :---: | --- |
-| GFM Tables | Yes | Uses `remark-gfm` |
-| Syntax Highlighting | Yes | Multiple languages |
-| Inline Code | Yes | Styled with monospace |
+# ReservaFàcil - Espai Esportiu Activa
+ 
+Benvingut a **ReservaFàcil**, una aplicació de reserves per a l'**Espai Esportiu Activa**.
+ 
+El nostre objectiu és facilitar la reserva d'instal·lacions esportives de manera ràpida, senzilla i segura.
+ 
+## Els nostres serveis
+ 
+Disposem de diferents espais esportius que es poden reservar:
+ 
+- Pista de Futbol
+- Pista de Tennis
+- Taula de Ping-pong
+- Pista de Bàdminton
+- Pista de Bàsquet
+ 
+## Horari
+ 
+Les reserves estan disponibles:
+ 
+- Dilluns a divendres
+- De 16:00 a 21:00
+- Franges de 1 hora
+ 
+## Com funciona?
+ 
+1. Consulta la disponibilitat.
+2. Selecciona una data i una hora.
+3. Completa les dades de la reserva.
+4. Rep la confirmació de la teva reserva.
+ 
+## Funcions principals
+ 
+- Consulta de franges disponibles.
+- Reserva mitjançant formulari web.
+- Assistent amb IA per ajudar en les reserves.
+- Gestió privada per al personal autoritzat.
+- Validació automàtica de les reserves.
