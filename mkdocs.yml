@@ -1,10 +1,16 @@
 site_name: ReservaFàcil - Espai Esportiu Activa
 
-theme:
-  name: swan
-
 nav:
   - Inici: index.md
-  - Serveis: serveis.md
   - Objectiu: objectiu.md
+  - Serveis: serveis.md
   - Deploy i MkDocs: deploy-mkdocs.md
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: green
+
+plugins:
+  - search
