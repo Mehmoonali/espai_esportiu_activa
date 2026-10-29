@@ -8,7 +8,7 @@ Cada vegada que fem un canvi al repositori i el pugem a GitHub, aquest fitxer ex
 
 ### CAPTURA DE DEPLOY.YML
 
-![Deploy](img/Deploy.png)
+![Deploy](img/%Deploy.png)
 
 ---
 
