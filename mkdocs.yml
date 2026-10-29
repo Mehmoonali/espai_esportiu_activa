@@ -2,7 +2,6 @@ site_name: ReservaFàcil - Espai Esportiu Activa
 
 nav:
   - Inici: index.md
-
   - Deploy i MkDocs: deploy-mkdocs.md
 
 theme:
