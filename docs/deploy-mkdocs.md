@@ -8,7 +8,7 @@ Cada vegada que fem un canvi al repositori i el pugem a GitHub, aquest fitxer ex
 
 ### CAPTURA DE DEPLOY.YML
 
-![Deploy](img/deploy.png)
+![Deploy](img/Deploy.png)
 
 ---
 
@@ -20,7 +20,7 @@ Serveix per configurar el nom de la web, les pàgines del menú, el tema visual 
 
 ### CAPTURA DE MKDOCS.YML
 
-![MkDocs](img/mkdocs.png)
+![MkDocs](img/%mkdocs.png)
 
 ---
 
@@ -50,4 +50,4 @@ S'encarrega de configurar l'estructura i l'aparença de la web.
 Gràcies als canvis realitzats, hem personalitzat la nostra pàgina web ReservaFàcil per a l'Espai Esportiu Activa i hem configurat la seva publicació automàtica.
 
 CAPTURA DEL RESULTAT FINAL
-![MkDocs](img/web.png)
+![MkDocs](img/%web.png)
