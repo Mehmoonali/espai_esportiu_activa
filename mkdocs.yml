@@ -1,7 +1,10 @@
-site_name: Documentació del Projecte
+site_name: ReservaFàcil - Espai Esportiu Activa
 
 theme:
   name: swan
 
 nav:
   - Inici: index.md
+  - Serveis: serveis.md
+  - Objectiu: objectiu.md
+  - Deploy i MkDocs: deploy-mkdocs.md
